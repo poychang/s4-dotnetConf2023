@@ -1,0 +1,14 @@
+﻿<span>
+    @if (new DateTime(2022, 12, 15).CompareTo(DateTime.Now) > 0)
+    {
+        <a href="https://study4-tw.kktix.cc/events/netconf2022" target="_blank" class="primary-btn top-btn"><i class="fa fa-ticket"></i> 報名參加</a>
+    }
+    else
+    {
+        <a href="https://hackmd.io/@@Study4/dotnetconf-2022" target="_blank" class="primary-btn top-btn"><i class="fa fa-pencil-square-o"></i> 大會共筆</a>
+    }
+</span>
+
+@code {
+
+}
