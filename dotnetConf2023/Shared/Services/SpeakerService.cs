@@ -447,8 +447,8 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Ryan Chung",
-                    Name = "Roberson",
+                    Id = "RyanChung",
+                    Name = "Ryan Chung",
                     JobTitle = "微軟最有價值專家",
                     PictureUrl ="./img/speakers/Ryan Chung.jpg",
                     BlogUrl = "",
