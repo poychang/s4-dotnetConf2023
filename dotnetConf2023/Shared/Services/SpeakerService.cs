@@ -48,7 +48,7 @@ namespace dotnetConf2023.Shared.Services
                 new SpeakerModel {
                     Id = "Edward Kuo",
                     Name = "Edward Kuo",
-                    JobTitle = "Kingston IT Manager",
+                    JobTitle = "Microsoft Regional Director",
                     PictureUrl ="./img/speakers/Edward Kuo.jpg",
                     BlogUrl = "https://profile.edwardkuo.dev/",
                     FacebookUrl = "https://www.facebook.com/groups/286316594814216/",
