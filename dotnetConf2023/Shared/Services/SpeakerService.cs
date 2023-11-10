@@ -16,7 +16,7 @@ namespace dotnetConf2023.Shared.Services
                     FacebookUrl = "https://www.facebook.com/will.fans/",
                     TwitterUrl = "",
                     LinkedinUrl = "",
-                    Introduction = "現任「多奇數位創意有限公司」技術總監。2018 年榮獲 Angular 方向的 Google Developer Expert (GDE) 開發專家。連續 14 度當選微軟最有價值專家(MVP)。2019 獲選微軟技術社群區域總監 (Microsoft Regional Director)。熟悉 Angular、JavaScript、.NET、C#、ASP.NET MVC、Go、Docker、Kubernetes 相關技術。擅長 DevOps 與組織文化建立、軟體團隊建構與管理。熱愛分享知識。",
+                    Introduction = "現任「多奇數位創意有限公司」技術總監。2018 年榮獲 Angular 方向的 Google Developer Expert (GDE) 開發專家。連續 16 度當選微軟最有價值專家(MVP)。2019 獲選微軟技術社群區域總監 (Microsoft Regional Director)。熟悉 Angular、JavaScript、.NET、C#、ASP.NET MVC、Go、Docker、Kubernetes 相關技術。擅長 DevOps 與組織文化建立、軟體團隊建構與管理。熱愛分享知識。",
                     Topic = "ASP.NET Core 8.0 全新功能探索",
                     TopicOutline = "TBD",
                     Room = "",
