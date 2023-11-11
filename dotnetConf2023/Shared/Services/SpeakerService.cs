@@ -411,7 +411,7 @@ namespace dotnetConf2023.Shared.Services
                 new SpeakerModel {
                     Id = "Phi",
                     Name = "黃秉鈞",
-                    JobTitle = "台灣微軟 Azure 資深雲端解決方案架構師",
+                    JobTitle = "CNCF Ambassador",
                     PictureUrl ="./img/speakers/Phi.jpg",
                     BlogUrl = "https://blog.pichuang.com.tw",
                     FacebookUrl = "",
