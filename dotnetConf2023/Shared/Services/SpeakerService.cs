@@ -9,7 +9,7 @@ namespace dotnetConf2023.Shared.Services
             var speakers = new List<SpeakerModel> {
                 new SpeakerModel {
                     Id = "Will Huang",
-                    Name = "Will 保哥",
+                    Name = "Will Huang",
                     JobTitle = "多奇數位創意 技術總監",
                     PictureUrl ="./img/speakers/Will 保哥.jpg",
                     BlogUrl = "http://blog.miniasp.com/",
@@ -208,7 +208,7 @@ namespace dotnetConf2023.Shared.Services
                     LinkedinUrl = "https://www.linkedin.com/in/codeian/",
                     Introduction = "陳葵懋（Ian Chen），連續12年當選微軟最有價值專家(MVP/現為AI領域)，同時也是連續5年微軟認證講師（MCT）。<br/>目前任職於「一等一科技股份有限公司」，熟悉 .NET 開發、Azure 雲端，近年來專注於Azure Devops、K8s、OpenAI等技術<br/>，相信持續學習與分享能成長與收獲的更多，曾擔任微軟 TechDays、Devdays Asia 、Mopcon、Modern Web Conference等研討會講師。<br/>2023年策畫與共同著作第一本講述Azure OpenAI 的技術書籍：駕馭 ChatGPT 4: 探索 Azure OpenAI 與 Cognitive Service for Language 開發實踐 （使用 .NET 與 Node.js）。。",
                     Topic = ".NET x AI，基於開源的「Semantic Kernel 」SDK 建構大型自然語言 (LLM) 生成式 AI 應用",
-                    TopicOutline = "生成式 AI 應用的誘發劑是 Prompt，因此提示工程（Prompt Engineering）成為炙手可熱的議題，然而從開發層面來看，實作一個真實場景的生成式應用，<br/>除了 Prompt 之外往往會遇面臨到如何處理上下文記憶、Few-Shot、Embeddings、Plugins 等機制的整合，當然神人可以全面自已來實現，而凡人的你我不<br/>用現成解決方案就太對不起自已啦。<br/>Semantic Kernel 是 Microsoft 在打造 GitHub Copilot、M365 Copilot、Bing Chat 所用的核心，現已開源是一個輕量化的 SDK 且即將正式迎來 1.0 版本，<br/>它支援 C#、Python、Java、TypeScriopt 程式語言，將開發生成式 AI 應用以 Pipeline 概念展開，提供一個生成式 AI 應用開發 Pattern。<br/>本場次除了帶大家來認識 Semantic Kernel 之外，我也將示範如何使用 Semantic Kernel，融合 GPT 模型，透過 Prompt 及 Plugin，打造生成式 AI 應用。",
+                    TopicOutline = "生成式 AI 應用的誘發劑是 Prompt，因此提示工程（Prompt Engineering）成為炙手可熱的議題，然而從開發層面來看，實作一個真實場景的生成式應用，<br/>除了 Prompt 之外往往會遇面臨到如何處理上下文記憶、Few-Shot、Embeddings、Plugins 等機制的整合，當然神人可以全面自已來實現，而凡人的你我不<br/>用現成解決方案就太對不起自已啦。<br/>Semantic Kernel 是 Microsoft 在打造 GitHub Copilot、M365 Copilot、Bing Chat 所用的核心，現已開源是一個輕量化的 SDK 且即將正式迎來 1.0 版本，<br/>它支援 C#、Python、Java、TypeScript 程式語言，將開發生成式 AI 應用以 Pipeline 概念展開，提供一個生成式 AI 應用開發 Pattern。<br/>本場次除了帶大家來認識 Semantic Kernel 之外，我也將示範如何使用 Semantic Kernel，融合 GPT 模型，透過 Prompt 及 Plugin，打造生成式 AI 應用。",
                     Room = "",
                     Track = "",
                     SessionStart = new DateTime(2023, 12, 9, 0, 0, 0),
@@ -275,7 +275,7 @@ namespace dotnetConf2023.Shared.Services
                 },
                 new SpeakerModel {
                     Id = "Summit",
-                    Name = "Summit",
+                    Name = "孫玉峰",
                     JobTitle = "台灣角川 數據架構師",
                     PictureUrl ="./img/speakers/孫玉峰.jpg",
                     BlogUrl = "",
@@ -505,7 +505,7 @@ namespace dotnetConf2023.Shared.Services
                 },
                 new SpeakerModel {
                     Id = "JimmyLiao",
-                    Name = "廖聖傑",
+                    Name = "Jimmy Liao",
                     JobTitle = "",
                     PictureUrl ="./img/speakers/JimmyLiao.jpg",
                     BlogUrl = "https://jimmyliao.net/",
