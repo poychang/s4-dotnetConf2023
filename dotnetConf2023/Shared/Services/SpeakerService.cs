@@ -381,7 +381,7 @@ namespace dotnetConf2023.Shared.Services
                     LinkedinUrl = "",
                     Introduction = "一個單純喜歡說故事的人。",
                     Topic = "歷史上的今天，變化多端的 C#",
-                    TopicOutline = "TBD",
+                    TopicOutline = "近年來 C# 演變神速，出現了許多新式的語法，這個議程裡不僅談論今年的 C# 12，也將挑選過去一些重要的語法變革。",
                     Room = "",
                     Track = "",
                     SessionStart = new DateTime(2023, 12, 9, 0, 0, 0),
