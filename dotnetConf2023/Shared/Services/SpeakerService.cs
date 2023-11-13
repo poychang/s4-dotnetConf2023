@@ -151,7 +151,7 @@ namespace dotnetConf2023.Shared.Services
                     LinkedinUrl = "",
                     Introduction = "我目前是個軟體生命週期導入專業顧問<br/>我專精於顧問與協助企業流程改造(電子化)協助將商業邏輯服務化、彈性化: 以 SOA 服務導向架構的方式提供 API 框架，讓各應用程式在開發時容易調用，加速開發、並可提高商業邏輯的再利用率，協助呈現介面多元化等。同時也擅長協助提升企業的軟體專案開發與工作效率，協助企業內部制定開發團隊流程 (Coding Rule/Standard) 與技術一致化，統一開發環境與技術、應用協同工作平台 Azure DevOps 建置雲端相關應用、自動化部署工具評估與導入。<br/>同時因為專案開發出身，我同時也擅長協助企業建置 ERP/CRM/CMS 或企業內部 EIP 等相關系統。",
                     Topic = "Blazor in .NET 8 的重大改變",
-                    TopicOutline = "● 初探 Blazor in .NET 8<br/>● 全新範本 Blazor United Project (Web App)<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 統一所有 Blazor 開發的全新樣板<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 有那些東西不見？<br/>● Server-side Rendering 與 Streaming Rendering<br/>● 如何開始 & 如何進行商用開發？<br/>● 如何將 Blazor in .NET 6/7 移轉至 .NET 8<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 案例介紹：將 .NET 6 的 BlazorApp 無痛升級到 .NET 8",
+                    TopicOutline = "在 .NET 拓展到 8.0 後，為什麼 Blazor 卻又在底層架構上有這麼大的改變呢？所謂的 SSR 或 CSR 在我們原本的 Blazor 上要注意什麼呢？原先設計的元件 Blazor Components 是否有什麼要配合的地方？原先在 .NET 6/7 撰寫的 Blazor 應用程式如果要改成在 .NET 8 執行要做什麼改變呢？以及 Hosted by Server 也沒有了，有什麼新的方式可以取代呢？<br/>這這個場次，我們一次把它弄清楚。",
                     Room = "",
                     Track = "",
                     SessionStart = new DateTime(2023, 12, 9, 0, 0, 0),
