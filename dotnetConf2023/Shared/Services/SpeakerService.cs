@@ -18,7 +18,7 @@ namespace dotnetConf2023.Shared.Services
                     LinkedinUrl = "",
                     Introduction = "現任「多奇數位創意有限公司」技術總監。2018 年榮獲 Angular 方向的 Google Developer Expert (GDE) 開發專家。連續 16 度當選微軟最有價值專家(MVP)。2019 獲選微軟技術社群區域總監 (Microsoft Regional Director)。熟悉 Angular、JavaScript、.NET、C#、ASP.NET MVC、Go、Docker、Kubernetes 相關技術。擅長 DevOps 與組織文化建立、軟體團隊建構與管理。熱愛分享知識。",
                     Topic = "ASP.NET Core 8.0 全新功能探索",
-                    TopicOutline = "TBD",
+                    TopicOutline = ".NET 8.0 的全新推出，不僅為我們帶來了一系列驚人的效能提升，還引入了豐富的新特性與功能。作為最新的 LTS（長期支援）版本，它提供了極致的穩定性與安全性，這對於企業來說，是一項關鍵的考量。因此，選擇升級到 .NET 8 將成為一個不可或缺的決策。<br/>此外，ASP.NET Core 8.0 攜手 Visual Studio 2022 的最新版和 C# 12 的語言創新，將為開發者帶來前所未有的激情和活力。<br/>在這場演講中，我將帶領大家一起乘風破浪，探索 ASP.NET Core 世界的最新領域，一同發現未知的可能！",
                     Room = "",
                     Track = "",
                     SessionStart = new DateTime(2023, 12, 9, 0, 0, 0),
@@ -283,8 +283,8 @@ namespace dotnetConf2023.Shared.Services
                     TwitterUrl = "",
                     LinkedinUrl = "",
                     Introduction = "在多個產業開發各種資料產品，包含推薦系統以及廣告數據平台，近年來的公開演講以及實務上則專注在資料工程與 MLOps 的建立，期望讓數據驅動（Data-Driven）的觀念帶動各個產業領域的創新。<br/>在東吳及師大擔任業界講師，亦接受過各媒體專訪，目前也是微軟 AI 領域最有價值專家（MVP）以及 Taiwan R User Group（常態活動 MLDM Monday 主辦單位）的共同主持人。",
-                    Topic = "TBD",
-                    TopicOutline = "TBD",
+                    Topic = "連 MLOps 都沒聽過的我就要用 LLMOps 是不是搞錯了什麼？",
+                    TopicOutline = "當他們在講 DevOps 的時候，我保持沉默，我又不是 SRE<br/>當他們在講 MLOps 的時候，我保持沉默，我又不是 Data Engineer<br/>當他們在講 LLMOps 的時候，已經沒有人能為我說話了<br/><br/>去年（2022）以來大型語言模型（LLMs）的發展正在大幅改變產品開發的樣貌，不論是用 Copilot 協助程式開發、或是直接將 ChatGPT API 包進產品裡，都讓 AI 的應用及產品開發出現更多可能性；原本大概只在特定領域會出現的 ML 開發，現在也跟著 LLMs 變成萬物皆可 AI。<br/>隨著 LLMs 漸漸成為開發人員基本標配，相關的部署及維運問題也隨之而來，LLMOps（Large Language Model Operations）就成了無法逃避的議題。<br/>這場分享將會從一個簡單的推薦系統案例開始，透過逐步完善產品的過程中，去理解 LLMOps 的精髓。",
                     Room = "",
                     Track = "",
                     SessionStart = new DateTime(2023, 12, 9, 0, 0, 0),
@@ -577,7 +577,7 @@ namespace dotnetConf2023.Shared.Services
                     SessionStart = new DateTime(2021, 12, 17, 13, 0, 0),
                     SessionEnd = new DateTime(2021, 12, 17, 17, 30, 0),
                     IsShow = true,
-                    Tags = new string[]{ "MS", "HackMD" },
+                    Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
                     Id = "PaytonChou",
@@ -596,7 +596,7 @@ namespace dotnetConf2023.Shared.Services
                     SessionStart = new DateTime(2021, 12, 17, 13, 0, 0),
                     SessionEnd = new DateTime(2021, 12, 17, 17, 30, 0),
                     IsShow = true,
-                    Tags = new string[]{ "MS", "HackMD" },
+                    Tags = new string[]{ "CM", "HackMD" },
                 },
                 
                 new SpeakerModel {
@@ -616,7 +616,7 @@ namespace dotnetConf2023.Shared.Services
                     SessionStart = new DateTime(2021, 12, 17, 13, 0, 0),
                     SessionEnd = new DateTime(2021, 12, 17, 17, 30, 0),
                     IsShow = true,
-                    Tags = new string[]{ "MS", "HackMD" },
+                    Tags = new string[]{ "CM", "HackMD" },
                 },
             };
 
