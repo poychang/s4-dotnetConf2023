@@ -198,7 +198,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Ian",
+                    Id = "IanChan",
                     Name = "Ian Chan",
                     JobTitle = "微軟最有價值專家",
                     PictureUrl ="./img/speakers/Ian.jpg",
