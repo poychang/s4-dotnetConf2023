@@ -8,7 +8,7 @@ namespace dotnetConf2023.Shared.Services
         {
             var speakers = new List<SpeakerModel> {
                 new SpeakerModel {
-                    Id = "Will Huang",
+                    Id = "WillHuang",
                     Name = "Will Huang",
                     JobTitle = "多奇數位創意 技術總監",
                     PictureUrl ="./img/speakers/Will 保哥.jpg",
@@ -27,7 +27,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "David Tung",
+                    Id = "DavidTung",
                     Name = "David Tung",
                     JobTitle = "光岩資訊資深技術顧問",
                     PictureUrl ="./img/speakers/David Tung.jpg",
@@ -46,7 +46,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Edward Kuo",
+                    Id = "EdwardKuo",
                     Name = "Edward Kuo",
                     JobTitle = "Microsoft Regional Director",
                     PictureUrl ="./img/speakers/Edward Kuo.jpg",
@@ -65,7 +65,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Andrew Wu",
+                    Id = "AndrewWu",
                     Name = "Andrew Wu",
                     JobTitle = "91APP 首席架構師",
                     PictureUrl ="./img/speakers/Andrew Wu-3.jpg",
@@ -84,7 +84,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Bruce Chen",
+                    Id = "BruceChen",
                     Name = "Bruce Chen",
                     JobTitle = "Kingston Senior Engineer",
                     PictureUrl ="./img/speakers/Bruce Chen.jpg",
@@ -103,7 +103,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Kevin Yang",
+                    Id = "KevinYang",
                     Name = "Kevin Yang",
                     JobTitle = "",
                     PictureUrl ="./img/speakers/Kevin Yang.jpg",
@@ -122,7 +122,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Jimmy Ho",
+                    Id = "JimmyHo",
                     Name = "Jimmy Ho",
                     JobTitle = "",
                     PictureUrl ="./img/speakers/Jimmy Ho.jpg",
@@ -141,7 +141,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Gelis Wu",
+                    Id = "GelisWu",
                     Name = "Gelis 吳俊毅",
                     JobTitle = "資深 .NET 技術顧問 & Microsoft MVP 連續七屆",
                     PictureUrl ="./img/speakers/Gelis Wu.jpg",
@@ -160,7 +160,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Bao Chengyou",
+                    Id = "BaoChengyou",
                     Name = "鮑承佑",
                     JobTitle = "",
                     PictureUrl ="./img/speakers/鮑承佑.jpg",
@@ -179,7 +179,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Yin Sangzhi",
+                    Id = "YinSangzhi",
                     Name = "尹相志",
                     JobTitle = "",
                     PictureUrl ="./img/speakers/尹相志-AI.jpg",
@@ -217,7 +217,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "KO KO",
+                    Id = "KoKo",
                     Name = "KO KO",
                     JobTitle = "",
                     PictureUrl ="./img/speakers/KO KO.jpg",
@@ -293,7 +293,26 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Alan Tsai",
+                    Id = "BenChen",
+                    Name = "陳奎銘",
+                    JobTitle = "Principal Data Scientist @ OneLab",
+                    PictureUrl ="./img/speakers/BenChen.jpg",
+                    BlogUrl = "",
+                    FacebookUrl = "",
+                    TwitterUrl = "",
+                    LinkedinUrl = "",
+                    Introduction = "有幸成為微軟 AI 領域 MVP 的資料科學家，致力於用資料科學解決各個領域的疑難雜症，舉凡投資、生技醫療和其他傳統產業，都有相關實務處理的經驗。除此之外，不定期也會接到授課的邀約，協助不同組織機構初探數位轉型，進入資料科學的世界。同時，我也是 R-Ladies Taipei Co-organizer，正嘗試努力每個月都舉辦活動，繼續延續社群的活力。",
+                    Topic = "投資？我都交給我的高級伴讀書僮 - GPT！",
+                    TopicOutline = "生成式 AI 從年初燒到了年尾，大家的生活可能都受到一定程度的衝擊與恩惠，各種應用也是隨之產生。但是，不是少了些什麼？<br/>在夜深人靜的時候，獨自看著美股起起伏伏，是不是心中的悸動也油然而生？有點想要跟著這波行情衝一波，但感覺又有點怕怕的…<br/>只好，打造自己的高級伴讀書僮了！讓 GPT 陪你搞懂每家公司，指引出股海中的偉大航道！",
+                    Room = "",
+                    Track = "",
+                    SessionStart = new DateTime(2023, 12, 9, 0, 0, 0),
+                    SessionEnd = new DateTime(2023, 12, 10, 0, 0, 0),
+                    IsShow = true,
+                    Tags = new string[]{ "CM", "HackMD" },
+                },
+                new SpeakerModel {
+                    Id = "AlanTsai",
                     Name = "Alan Tsai",
                     JobTitle = "微軟最有價值專家",
                     PictureUrl ="./img/speakers/Alan Tsai.jpg",
@@ -313,7 +332,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Alan Tsai",
+                    Id = "AlanTsai",
                     Name = "Alan Tsai",
                     JobTitle = "微軟最有價值專家",
                     PictureUrl ="./img/speakers/Alan Tsai.jpg",
@@ -333,7 +352,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Marcus",
+                    Id = "MarcusTung",
                     Name = "Marcus Tung",
                     JobTitle = "微軟最有價值專家",
                     PictureUrl ="./img/speakers/Marcus Tung.jpg",
@@ -371,7 +390,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Bill Chung",
+                    Id = "BillChung",
                     Name = "Bill Chung",
                     JobTitle = "",
                     PictureUrl ="./img/speakers/Bill Chung.jpg",
@@ -466,7 +485,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Roberson",
+                    Id = "RobersonLiou",
                     Name = "Roberson Liou",
                     JobTitle = "Microsoft MVP",
                     PictureUrl ="./img/speakers/RobersonLiou.jpg",
@@ -485,7 +504,7 @@ namespace dotnetConf2023.Shared.Services
                     Tags = new string[]{ "CM", "HackMD" },
                 },
                 new SpeakerModel {
-                    Id = "Len",
+                    Id = "LenLi",
                     Name = "Len Li",
                     JobTitle = "",
                     PictureUrl ="./img/speakers/Len Li.jpg",
