@@ -562,7 +562,7 @@ namespace dotnetConf2023.Shared.Services
                 },
                 new SpeakerModel {
                     Id = "Dann",
-                    Name = "吳典璋",
+                    Name = "吳典璋 (Dann哥)",
                     JobTitle = "Build School 軟體工程師培訓學校創辦人",
                     PictureUrl ="./img/speakers/Dann.jpg",
                     BlogUrl = "",
