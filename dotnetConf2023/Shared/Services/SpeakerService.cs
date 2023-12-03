@@ -136,7 +136,7 @@ namespace dotnetConf2023.Shared.Services
                     Room = "",
                     Track = "",
                     SessionStart = new DateTime(2023, 12, 10, 15, 30, 0),
-                    SessionEnd = new DateTime(2023, 12, 10, 17, 20, 0),
+                    SessionEnd = new DateTime(2023, 12, 10, 16, 20, 0),
                     IsShow = true,
                     Tags = new string[]{ "CM", "HackMD" },
                 },
