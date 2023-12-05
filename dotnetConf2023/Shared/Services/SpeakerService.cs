@@ -362,7 +362,7 @@ namespace dotnetConf2023.Shared.Services
                     LinkedinUrl = "",
                     Introduction = "現任微軟最有價值專家（Developer Technologies）和 DevOps Taiwan 技術社群志工，樂於研究與分享 後端技術，將學習與實踐的心得記錄在個人部落格 m@rcus 學習筆記上，並於粉絲團不定期分享技術開發與 Observability 相關新知。",
                     Topic = "使用 .NET 8 建立雲原生應用程序",
-                    TopicOutline = "在本次議程中將探討 .NET 8 針對雲原生開發的新功能以及以下主題：\r\n1. 如何透過 .NET 8 的新特性打造高性能和具彈性的服務\r\n2. 開啟系統可觀測性：.NET 8 與 OpenTelemetry 的結合\r\n3. 初探新的分散式應用程式專案 .NET Aspire \r\n這個議程將幫助開發者了解 .NET 8 雲原生開發的新功能，並教您如何運用這些功能來建構現代的、高性能的分佈式應用程序，同時實現可觀測性和彈性。",
+                    TopicOutline = "在本次議程中將探討 .NET 8 針對雲原生開發的新功能以及以下主題：<br/>1. 如何透過 .NET 8 的新特性打造高性能和具彈性的服務<br/>2. 開啟系統可觀測性：.NET 8 與 OpenTelemetry 的結合<br/>3. 初探新的分散式應用程式專案 .NET Aspire <br/>這個議程將幫助開發者了解 .NET 8 雲原生開發的新功能，並教您如何運用這些功能來建構現代的、高性能的分佈式應用程序，同時實現可觀測性和彈性。",
                     Room = "",
                     Track = "",
                     SessionStart = new DateTime(2023, 12, 9, 16, 30, 0),
